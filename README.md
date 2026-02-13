@@ -6,9 +6,7 @@
 
 > Zero-auth MCP server with everyday developer utilities. No API keys, no external services — just tools you use daily, available in your IDE.
 
-<p align="center">
-  <img src="assets/demo.gif" alt="mcp-server-devutils demo" width="600" />
-</p>
+![Demo](assets/demo.gif)
 
 ## Tools
 
