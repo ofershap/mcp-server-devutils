@@ -1,10 +1,18 @@
 # mcp-server-devutils
 
 [![npm version](https://img.shields.io/npm/v/mcp-server-devutils.svg)](https://www.npmjs.com/package/mcp-server-devutils)
+[![npm downloads](https://img.shields.io/npm/dm/mcp-server-devutils.svg)](https://www.npmjs.com/package/mcp-server-devutils)
 [![CI](https://github.com/ofershap/mcp-server-devutils/actions/workflows/ci.yml/badge.svg)](https://github.com/ofershap/mcp-server-devutils/actions/workflows/ci.yml)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-> Zero-auth MCP server with everyday developer utilities. No API keys, no external services — just tools you use daily, available in your IDE.
+17 developer utilities as MCP tools — base64, UUID, JWT decode, cron, timestamps, JSON, regex. No API keys, no external services, just `npx`.
+
+```
+You: "Decode this JWT: eyJhbGci..."
+AI:  Header: { alg: "RS256" }  Payload: { sub: "1234", exp: 1700000000 }  Expired: yes
+```
+
+> Works with Claude Desktop, Cursor, and VS Code Copilot. Zero auth required.
 
 ![Demo](assets/demo.gif)
 
