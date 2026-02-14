@@ -1,6 +1,6 @@
 {
   "name": "mcp-server-devutils",
-  "version": "0.0.0-development",
+  "version": "1.0.0",
   "description": "Zero-auth MCP server with everyday developer utilities: base64, UUID, hash, JWT decode, cron, timestamps, JSON, regex",
   "type": "module",
   "bin": {
