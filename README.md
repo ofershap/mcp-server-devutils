@@ -16,6 +16,10 @@ AI:  Header: { alg: "RS256" }  Payload: { sub: "1234", exp: 1700000000 }  Expire
 
 ![MCP server devutils demo — JWT decode, UUID generation, and cron explanation in Claude Desktop](assets/demo.gif)
 
+<a href="https://glama.ai/mcp/servers/ofershap/mcp-server-devutils">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/ofershap/mcp-server-devutils/badge" alt="mcp-server-devutils MCP server" />
+</a>
+
 ## Tools
 
 | Tool               | What it does                                      |
