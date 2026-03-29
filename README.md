@@ -38,6 +38,10 @@ AI:  Header: { alg: "RS256" }  Payload: { sub: "1234", exp: 1700000000 }  Expire
 | `json_validate`    | Validate JSON and report its type                 |
 | `regex_test`       | Test a regex pattern against a string             |
 
+## Hosted deployment
+
+A hosted deployment is available on [Fronteir AI](https://fronteir.ai/mcp/ofershap-mcp-server-devutils).
+
 ## Quick Start
 
 ### With Claude Desktop
